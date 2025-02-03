@@ -1,28 +1,26 @@
-# Windows Server Lab
+# 🖥️ Lab IT - VirtualBox & Windows Server  
+🚀 **Projet personnel pour tester et apprendre l'administration système et réseau.**  
 
-Ce dépôt documente mon lab sous VirtualBox avec un environnement réseau basé sur Windows Server.
+## 🔧 **Infrastructure du Lab**  
+- 🌍 **Virtualisation** : VirtualBox  
+- 🖥️ **Machines Virtuelles** :  
+  - Windows Server 2022 (Contrôleur de domaine)  
+  - Windows Server 2025 (Membre du domaine)  
+  - Windows 11 (Client)  
+  - IPFire (Routeur virtuel)  
+- 🏢 **Forêt Active Directory** : `Blaiseblab.local`  
 
-## 🖥️ Environnement
+## 📌 **Objectifs du Lab**  
+✅ Installer et configurer un contrôleur de domaine Active Directory  
+✅ Ajouter un PC client et un serveur membre au domaine  
+✅ Configurer des stratégies de groupe (GPO)  
+✅ Tester la connectivité et les rôles réseau  
 
-- **VirtualBox** comme hyperviseur
-- **Windows Server 2022 & 2025** (Contrôleur de domaine)
-- **Windows 11** (Client)
-- **IPFire** comme routeur virtuel
-- **Forêt Active Directory** : `Blaiseblab`
+## 📂 **Documentation détaillée**  
+🔹 [Installation de Windows Server 2022](lien_vers_un_fichier)  
+🔹 [Configuration d’Active Directory](lien_vers_un_fichier)  
+🔹 [Ajout d’un client Windows 11 au domaine](lien_vers_un_fichier)  
 
-## 📌 Objectifs
-
-1. Configurer un contrôleur de domaine (DC) sous Windows Server 2022
-2. Ajouter un second serveur Windows Server 2025
-3. Joindre un client Windows 11 au domaine
-4. Configurer un routeur IPFire pour gérer le réseau
-
-## 📷 Captures d’écran
-
-
-
-## 🔧 Scripts et configurations scripts PowerShell, etc.
-
-
-
+📩 **Suggestions ou échanges ?** → Contacte-moi sur [LinkedIn](https://www.linkedin.com/in/ton-lien)  
 ---
+⭐️ Si ce projet t'intéresse, n'hésite pas à me suivre et à échanger avec moi !
