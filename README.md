@@ -20,6 +20,7 @@ Ce dépôt documente mon lab sous VirtualBox avec un environnement réseau basé
 ## 📷 Captures d’écran
 
 
+
 ## 🔧 Scripts et configurations scripts PowerShell, etc.
 
 
