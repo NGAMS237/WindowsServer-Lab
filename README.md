@@ -21,6 +21,8 @@
 🔹 [Configuration d’Active Directory](lien_vers_un_fichier)  
 🔹 [Ajout d’un client Windows 11 au domaine](lien_vers_un_fichier)  
 
-📩 **Suggestions ou échanges ?** → Contacte-moi sur [LinkedIn](https://www.linkedin.com/in/ton-lien)  
+📩 **Suggestions ou échanges ?** → Contacte-moi sur [LinkedIn](https://www.linkedin.com/in/
+blaisenganbou237
+)  
 ---
 ⭐️ Si ce projet t'intéresse, n'hésite pas à me suivre et à échanger avec moi !
